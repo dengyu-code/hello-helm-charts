@@ -3,12 +3,12 @@ entries:
   hello:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-22T21:36:19.6189828+08:00"
+    created: "2024-07-22T21:39:08.5483675+08:00"
     description: A Helm chart for Kubernetes
-    digest: b5c24b5a0bea2c6500a73273071cc3ab30efacc4e872622cb6c57d695db1c826
+    digest: 638455936a48647d3316d7e13547572bc4da9eff89d22f6edcdf29831161d69b
     name: hello
     type: application
     urls:
     - https://dengyu-code.github.io/hello-helm-charts/hello-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-22T21:36:19.6178902+08:00"
+generated: "2024-07-22T21:39:08.5477617+08:00"
